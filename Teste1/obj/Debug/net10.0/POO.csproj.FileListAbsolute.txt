@@ -1,0 +1,14 @@
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/bin/Debug/net10.0/POO
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/bin/Debug/net10.0/POO.deps.json
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/bin/Debug/net10.0/POO.runtimeconfig.json
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/bin/Debug/net10.0/POO.dll
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/bin/Debug/net10.0/POO.pdb
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/obj/Debug/net10.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/obj/Debug/net10.0/POO.AssemblyInfoInputs.cache
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/obj/Debug/net10.0/POO.AssemblyInfo.cs
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/obj/Debug/net10.0/POO.csproj.CoreCompileInputs.cache
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/obj/Debug/net10.0/POO.dll
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/obj/Debug/net10.0/refint/POO.dll
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/obj/Debug/net10.0/POO.pdb
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/obj/Debug/net10.0/POO.genruntimeconfig.cache
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/obj/Debug/net10.0/ref/POO.dll

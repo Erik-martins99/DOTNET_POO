@@ -1,0 +1,14 @@
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/bin/Debug/net8.0/Musicas
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/bin/Debug/net8.0/Musicas.deps.json
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/bin/Debug/net8.0/Musicas.runtimeconfig.json
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/bin/Debug/net8.0/Musicas.dll
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/bin/Debug/net8.0/Musicas.pdb
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/obj/Debug/net8.0/Musicas.GeneratedMSBuildEditorConfig.editorconfig
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/obj/Debug/net8.0/Musicas.AssemblyInfoInputs.cache
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/obj/Debug/net8.0/Musicas.AssemblyInfo.cs
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/obj/Debug/net8.0/Musicas.csproj.CoreCompileInputs.cache
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/obj/Debug/net8.0/Musicas.dll
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/obj/Debug/net8.0/refint/Musicas.dll
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/obj/Debug/net8.0/Musicas.pdb
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/obj/Debug/net8.0/Musicas.genruntimeconfig.cache
+/home/erik/Documents/STUDY/ALURA/DOTNET/POO/Musicas/Musicas/obj/Debug/net8.0/ref/Musicas.dll
