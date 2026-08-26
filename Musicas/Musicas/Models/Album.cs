@@ -8,7 +8,7 @@ namespace Musicas.Models
     public class Album
     {
         public string Nome { get; set; }
-        private int duracaoTotal { get; set; }
+        public int DuracaoTotal { get; set; }
         private List<Musica> musicas = new List<Musica>();
 
 
@@ -20,14 +20,14 @@ namespace Musicas.Models
 
         private void AdicionaDuracao(int duracao)
         {
-            duracaoTotal += duracao;
+            DuracaoTotal += duracao;
         }
 
         public void ImprimeAlbum()
         {
             Console.WriteLine("===========================");
             Console.WriteLine("Album: " + Nome);
-            Console.WriteLine("Duração total: " + duracaoTotal + " segundos");
+            Console.WriteLine("Duração total: " + DuracaoTotal + " segundos");
             Console.WriteLine("\nMusicas: ");
 
             foreach(var musica in musicas)
