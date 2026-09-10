@@ -21,6 +21,8 @@ iphone.Marca = "Apple";
 iphone.Preco = 3000.99f;
 iphone.Estoque = 2;
 Console.WriteLine(iphone.InformacoesDetalhadas);
+
+Console.WriteLine("Teste");
 */
 
 Movie titanic = new Movie("TItanic", 320);
