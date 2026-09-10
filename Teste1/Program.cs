@@ -23,6 +23,7 @@ iphone.Estoque = 2;
 Console.WriteLine(iphone.InformacoesDetalhadas);
 
 Console.WriteLine("Teste");
+Console.WriteLine("Teste1");
 */
 
 Movie titanic = new Movie("TItanic", 320);
