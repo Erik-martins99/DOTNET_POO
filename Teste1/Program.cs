@@ -25,6 +25,7 @@ Console.WriteLine(iphone.InformacoesDetalhadas);
 Console.WriteLine("Teste");
 Console.WriteLine("Teste1");
 Console.WriteLine("Teste2");
+Console.WriteLine("Teste3");
 */
 
 Movie titanic = new Movie("TItanic", 320);
